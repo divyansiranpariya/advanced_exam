@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272359043574",
+    "project_id": "final-exam-afe5e",
+    "storage_bucket": "final-exam-afe5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272359043574:android:9a094e4614c2bf637717d7",
+        "android_client_info": {
+          "package_name": "com.example.final_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsH9ckhpOxILyQQpdz4SB5GFo8OD6evg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
